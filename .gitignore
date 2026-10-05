@@ -1,0 +1,10 @@
+# Fichiers compilés
+*.exe
+
+# Fichiers temporaires d'IDE
+.vscode/
+*.code-workspace
+
+# Fichiers système
+.DS_Store
+Thumbs.db
